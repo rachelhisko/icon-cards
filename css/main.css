@@ -30,3 +30,13 @@ html {
 .card:hover {
   background-color: #e6e6e6;
 }
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+}
